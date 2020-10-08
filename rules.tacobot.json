@@ -6,7 +6,7 @@
 		],
 		"description": "Tacobot detection rules for TF2 Bot Detector.",
 		"title": "Tacobot rules list",
-    		"update_url": "https://raw.githubusercontent.com/definitelyquiet/tacobot-detection/main/rules.tacobot.json"
+    		"update_url": "https://raw.githubusercontent.com/self-xyz/tacobot-detection/main/rules.tacobot.json"
 	},
 	"rules": [
 		{
