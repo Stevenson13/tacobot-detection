@@ -1,0 +1,83 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"DefinitelyQuiet"
+		],
+		"description": "Tacobot detection rules for TF2 Bot Detector.",
+		"title": "Tacobot rules list",
+    "update_url": "https://raw.githubusercontent.com/definitelyquiet/tacobot-detection/main/rules.tacobot.json"
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"exploiter"
+				]
+			},
+			"description": "tacobot in name",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"tacobot"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"exploiter"
+				]
+			},
+			"description": "tacobot slang",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"money scout",
+						"switch class",
+						"no gas",
+						"no pyro",
+						"turtle eng",
+						"idle med",
+						"f4",
+						"sth",
+						"99%",
+						"ok ty",
+						"retry",
+						"f2 animal",
+						"f1 or",
+						"kick or"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"exploiter",
+					"racist"
+				]
+			},
+			"description": "racist tacobot slang",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"ape",
+						"monkey",
+						"chimp",
+						"gorilla",
+						"locate banana",
+						"ook ook"
+					]
+				}
+			}
+		}
+	]
+}
