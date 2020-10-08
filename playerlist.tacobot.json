@@ -2,10 +2,10 @@
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"file_info": {
 		"authors": [
-			"pazer"
+			"self-xyz"
 		],
 		"description": "Player list to detect (pro)tacobot members",
-		"title": "tacobot list"
+		"title": "tacobot list",
 		"update_url": "https://raw.githubusercontent.com/self-xyz/tacobot-detection/main/playerlist.tacobot.json"
 	},
 	"players": [
@@ -251,7 +251,8 @@
 		},
 		{
 			"attributes": [
-				"exploiter"
+				"exploiter", 
+				"racist"
 			],
 			"last_seen": {
 				"player_name": "Bill Gaither",
