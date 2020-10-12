@@ -18,4 +18,4 @@ People who behave or pretend to be like those and its not a clear sign of just f
 
 Also there's a high chance there may be false-positives, I get that. People who find themselves on the list and think they may not fit the category may text me on steam and we'll sort things out. There's a good chance I can counter-argument though, so please don't fool me. The list won't have a big impact on your further gameplay but please be nicer to new players in the future. If you don't think you can manage to to so, maybe consider playing in a full lobby or even try to take a break, i'll be worth it for the long shot.
 
-![alt text](https://i.imgur.com/HYJAGRj.png "I just want to play") - some rando before he got unfairly kicked, 2020
+![alt text](https://i.imgur.com/HYJAGRj.png "I just want to play") - some rando before getting kicked
