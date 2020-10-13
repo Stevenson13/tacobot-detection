@@ -5,7 +5,7 @@ It can be used together with pazer's TF2 Bot Detector to keep the toxic nonsense
 
 Get TF2 Bot Detector here: https://github.com/PazerOP/tf2_bot_detector
 
-Drop "playerlist.tacobot.json" into (tf2 bot detector folder)/cfg and it'll get imported.
+Drop all files in the .zip into (tf2 bot detector folder)/cfg and it'll get imported.
 There's also a small guide on how to set it up: https://steamcommunity.com/sharedfiles/filedetails/?id=2249430032
 
 A few notes to consider: Please do not hunt down individuals of this list, it is purely made to avoid as much conflicts as possible when playing Mann vs Machine.
