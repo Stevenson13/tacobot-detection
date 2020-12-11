@@ -154,16 +154,6 @@
 				"exploiter"
 			],
 			"last_seen": {
-				"player_name": "PumpTheHeadiSkin",
-				"time": 1593821733
-			},
-			"steamid": "[U:1:91798764]"
-		},
-		{
-			"attributes": [
-				"exploiter"
-			],
-			"last_seen": {
 				"player_name": "Benedevil",
 				"time": 1593821733
 			},
@@ -208,26 +198,6 @@
 				"time": 1593821733
 			},
 			"steamid": "[U:1:116977293]"
-		},
-		{
-			"attributes": [
-				"exploiter"
-			],
-			"last_seen": {
-				"player_name": "Lee Harrold",
-				"time": 1593821733
-			},
-			"steamid": "[U:1:118307150]"
-		},
-		{
-			"attributes": [
-				"exploiter"
-			],
-			"last_seen": {
-				"player_name": "Jimbo",
-				"time": 1593821733
-			},
-			"steamid": "[U:1:119098281]"
 		},
 		{
 			"attributes": [
@@ -329,26 +299,6 @@
 				"time": 1593821733
 			},
 			"steamid": "[U:1:166242235]"
-		},
-		{
-			"attributes": [
-				"exploiter"
-			],
-			"last_seen": {
-				"player_name": "totally not ster_",
-				"time": 1593821733
-			},
-			"steamid": "[U:1:176447651]"
-		},
-		{
-			"attributes": [
-				"exploiter"
-			],
-			"last_seen": {
-				"player_name": "Scoutfingers",
-				"time": 1593821733
-			},
-			"steamid": "[U:1:182627275]"
 		},
 		{
 			"attributes": [
@@ -769,6 +719,96 @@
 				"time": 1593821733
 			},
 			"steamid": "[U:1:995145682]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "GiantBalloonKillingKlan",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:966715353]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "CEO of Anime l burritobot.tf",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:1028645327]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Freddie",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:346835687]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Droy",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:105588940]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Colonel Johnson",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:1009286643]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Kina",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:92656073]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Jeremy",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:189294994]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "ciponta",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:314600837]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "hamburger crisis",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:341322768]"
 		}
 	]
 }
