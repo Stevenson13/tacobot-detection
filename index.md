@@ -1,5 +1,7 @@
 ## tacobot detection list
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fself-xyz.github.io%2Ftacobot-detection%2F&count_bg=%23000000&title_bg=%23C95D05&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This list contains most of tacobot.tf members and people associated with the project. It can be used together with pazer's TF2 Bot Detector to keep the toxic nonsense out of your game.
 
 A few notes to consider: Please do not hunt down individuals of this list, it is purely made to avoid as much conflicts as possible when playing Mann vs Machine. There are still exceptions with similar behaviour patterns who don't have any connections to said project and therefore do not count to this project.
@@ -33,11 +35,11 @@ WIll I receive a vac ban for using this?
 (thats the only question I heard about this tool, until then this is WIP)
 ### credits
 
+all_quiet for helping me fix my stuff, appreciate it
+
 Nulledcore for his up to date list: [https://nullified.neocities.org/tacobot/](https://nullified.neocities.org/tacobot/)
-+ a dozen of friends helping contribute to this config
 
-
-
-![alt text](https://i.imgur.com/HYJAGRj.png "I just want to play") - some rando before getting kicked
+and a dozen of friends helping contribute to this config
 
 ![alt text](https://i.imgur.com/BHF94ph.png "lol")
+
