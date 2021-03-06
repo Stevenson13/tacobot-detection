@@ -6,13 +6,14 @@ A few notes to consider: Please do not hunt down individuals of this list, it is
 
 ### Quick how to
 
-First download TF2 Bot Detector here: https://github.com/PazerOP/tf2_bot_detector
+First download TF2 Bot Detector here: [https://github.com/PazerOP/tf2_bot_detector
+](https://github.com/PazerOP/tf2_bot_detector)
 
-Download my detection-config from here:https://github.com/self-xyz/tacobot-detection/releases/tag/0.4
+Download my detection-config from here: [https://github.com/self-xyz/tacobot-detection/releases/tag/0.4](https://github.com/self-xyz/tacobot-detection/releases/tag/0.4)
 
 Extract TF2 Bot Detector somewhere
 
-Drop all detection-config files in the .zip into (tf2 bot detector folder)/cfg and it'll get imported. There's also a small guide on how to set it up: https://steamcommunity.com/sharedfiles/filedetails/?id=2249430032
+Drop all detection-config files in the .zip into (tf2 bot detector folder)/cfg and it'll get imported. There's also a small guide on how to set it up: [https://steamcommunity.com/sharedfiles/filedetails/?id=2249430032](https://steamcommunity.com/sharedfiles/filedetails/?id=2249430032)
 
 ### etc
 
@@ -32,7 +33,7 @@ WIll I receive a vac ban for using this?
 (thats the only question I heard about this tool, until then this is WIP)
 ### credits
 
-Nulledcore for his up to date list: https://nullified.neocities.org/tacobot/
+Nulledcore for his up to date list: [https://nullified.neocities.org/tacobot/](https://nullified.neocities.org/tacobot/)
 + a dozen of friends helping contribute to this config
 
 
