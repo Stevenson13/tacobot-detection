@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## tacobot detection list
 
-You can use the [editor on GitHub](https://github.com/self-xyz/tacobot-detection/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This list contains most of tacobot.tf members and people associated with the project. It can be used together with pazer's TF2 Bot Detector to keep the toxic nonsense out of your game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A few notes to consider: Please do not hunt down individuals of this list, it is purely made to avoid as much conflicts as possible when playing Mann vs Machine. There are still exceptions with similar behaviour patterns who don't have any connections to said project and therefore do not count to this project.
 
-### Markdown
+### Quick how to
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First download TF2 Bot Detector here: https://github.com/PazerOP/tf2_bot_detector
 
-```markdown
-Syntax highlighted code block
+Download my detection-config from here:https://github.com/self-xyz/tacobot-detection/releases/tag/0.4
 
-# Header 1
-## Header 2
-### Header 3
+Extract TF2 Bot Detector somewhere
 
-- Bulleted
-- List
+Drop all detection-config files in the .zip into (tf2 bot detector folder)/cfg and it'll get imported. There's also a small guide on how to set it up: https://steamcommunity.com/sharedfiles/filedetails/?id=2249430032
 
-1. Numbered
-2. List
+### etc
 
-**Bold** and _Italic_ and `Code` text
+A few notes to consider: Please do not hunt down individuals of this list, it is purely made to avoid as much conflicts as possible when playing Mann vs Machine. There are still exceptions with similar behaviour patterns who don't have any connections to said project and therefore do not count to this project.
 
-[Link](url) and ![Image](src)
-```
+Points I'd consider when adding individual people: website tag, friends of tb.tf, specific invite-only groups shared with other members, negative steam comments, negative groups about mvm, keywords such as "gaspasser pyro ape", known to troll people
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If I can't find clear connections to said group, the person does not get added to the list but gets stored instead for further investigation. People who behave or pretend to be like those and its not a clear sign of just fooling around however still get added. You wouldn't pretend to steal just to look like an actual thief, right?
 
-### Jekyll Themes
+Also there's a high chance there may be false-positives, I get that. People who find themselves on the list and think they may not fit the category may text me on steam and we'll sort things out. There's a good chance I can counter-argument though, so please don't fool me. The list won't have a big impact on your further gameplay but please be nicer to new players in the future. If you don't think you can manage to to so, maybe consider playing in a full lobby or even try to take a break, it'll be worth it for the long shot.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/self-xyz/tacobot-detection/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### FAQ
 
-### Support or Contact
+WIll I receive a vac ban for using this?
+- no, as stated in tf2 bot detector, it does not manipulate the memory of the game and uses internal debug features to get the players from the server youre playing on
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(thats the only question I heard about this tool, until then this is WIP)
+### credits
+
+Nulledcore for his up to date list: https://nullified.neocities.org/tacobot/
++ a dozen of friends helping contribute to this config
+
+
+
+![alt text](https://i.imgur.com/HYJAGRj.png "I just want to play") - some rando before getting kicked
+
+![alt text](https://i.imgur.com/BHF94ph.png "lol")
