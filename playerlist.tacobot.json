@@ -418,7 +418,7 @@
 				"player_name": "rev",
 				"time": 1593821733
 			},
-			"steamid": "[U:1:174247203]"
+			"steamid": "[U:1:174347203]"
 		},
 		{
 			"attributes": [
@@ -1129,6 +1129,16 @@
 				"time": 1593821733
 			},
 			"steamid": "[U:1:83816447]"
+		}
+				{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Snuuut",
+				"time": 1593821733
+			},
+			"steamid": "[U:1:30624932]"
 		}
 	]
 }
